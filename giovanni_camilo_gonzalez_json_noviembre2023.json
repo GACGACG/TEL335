@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Primer domingo del mes",
+    "comentarios": null,
+    "fecha": "2023-11-05",
+    "irrenunciable": "0",
+    "tipo": "Domingo"
+  },
+  {
+    "nombre": "Segundo domingo del mes",
+    "comentarios": null,
+    "fecha": "2023-11-12",
+    "irrenunciable": "0",
+    "tipo": "Domingo"
+  },
+  {
+    "nombre": "Tercer domingo del mes",
+    "comentarios": null,
+    "fecha": "2023-11-19",
+    "irrenunciable": "0",
+    "tipo": "Domingo"
+  },
+  {
+    "nombre": "Cuarto domingo del mes",
+    "comentarios": null,
+    "fecha": "2023-11-26",
+    "irrenunciable": "0",
+    "tipo": "Domingo"
+  }
+]
